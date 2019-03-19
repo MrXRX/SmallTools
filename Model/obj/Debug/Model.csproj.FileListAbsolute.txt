@@ -1,0 +1,12 @@
+H:\杂七杂八\项目\SmallTools\Model\bin\Debug\Model.dll
+H:\杂七杂八\项目\SmallTools\Model\bin\Debug\Model.pdb
+H:\杂七杂八\项目\SmallTools\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\杂七杂八\项目\SmallTools\Model\obj\Debug\Model.dll
+H:\杂七杂八\项目\SmallTools\Model\obj\Debug\Model.pdb
+H:\杂七杂八\项目\SmallTools\Model\obj\Debug\Model.csprojAssemblyReference.cache
+H:\SmallTools\Model\bin\Debug\Model.dll
+H:\SmallTools\Model\bin\Debug\Model.pdb
+H:\SmallTools\Model\obj\Debug\Model.csprojAssemblyReference.cache
+H:\SmallTools\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\SmallTools\Model\obj\Debug\Model.dll
+H:\SmallTools\Model\obj\Debug\Model.pdb
